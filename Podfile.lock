@@ -1,0 +1,16 @@
+PODS:
+  - taresip (0.1.1)
+
+DEPENDENCIES:
+  - taresip
+
+SPEC REPOS:
+  trunk:
+    - taresip
+
+SPEC CHECKSUMS:
+  taresip: 25371dcfa501965053e41217f60fc1d2fa523dce
+
+PODFILE CHECKSUM: 468453f5e34a1d4440add95f6f37f63afdbc37be
+
+COCOAPODS: 1.10.1
